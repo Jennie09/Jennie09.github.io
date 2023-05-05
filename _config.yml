@@ -1,17 +1,17 @@
 # Site settings
 title: BY Blog
-SEOTitle: JY的银河列车 | MY Bloggg :)
-header-img: img/post-bg-desk.jpg
+SEOTitle: Jingyi的银河列车 | MY Bloggg :)
+header-img: img/133096705790530376.jpg
 email: 1043084714@qq.com
-description: "希望与你同在"
-keyword: "BY, BY Blog, JY的银河列车, jingyi, dream, life"
+description: "Today is the present."
+keyword: "My Blog, 银河列车, jingyi, dream, life. sharing"
 url: "http://jennie09.githubqq.com.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jennie09/jennie09.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Happiness will find me!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
